@@ -1,5 +1,5 @@
 
-# JavaScript Logic Challenges - Eid Special
+# JavaScript Logic Challenges 
 
 A collection of 5 JavaScript problems focusing on data validation, mathematical calculations, and string manipulation.
 
@@ -122,4 +122,4 @@ console.log(newPrice(1500, 20)); // Output: 1200.000
 
 ---
 
-Would you like me to provide the **JavaScript code solutions** for these problems as well?
+
